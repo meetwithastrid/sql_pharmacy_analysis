@@ -12,7 +12,7 @@ mencakup nama obat, kandungan aktif, kategori terapi, bentuk sediaan, harga (EGP
 - Pandas (untuk pembersihan data & menampilkan hasil query)
 
 # Isi Analisis
-File: `pharmacy_analysis.ipynb`
+File: `pharmacy analysis.ipynb`
 
 | No | Query | Fokus Analisis |
 |----|-------|-----------------|
